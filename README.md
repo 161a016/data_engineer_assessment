@@ -1,5 +1,7 @@
 Data Engineering Assessment Solution
+
 Database Design
+
 The raw CSV data followed a denormalized structure with all property information in a single flat file. I designed a normalized relational schema consisting of four key tables:
 
 Tables
