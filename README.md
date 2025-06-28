@@ -1,5 +1,17 @@
-The raw CSV data followed a denormalized structure with all property information in a single flat file. I designed a normalized relational schema consisting of four key tables:
 
+## 📚 How This Document Works
+
+Each section is structured with:
+
+- **Problem:** Background and context for the task
+- **Task:** What you are required to do (including any bonus “extra” tasks)
+- **Solution:** Where you must document your approach, decisions, and provide instructions for reviewers
+
+> **Tech Stack:**  
+> Please use only Python (for ETL/data processing) and SQL/MySQL (for database).  
+> Only use extra libraries if they do not replace core logic, and clearly explain your choices in your solution.
+
+  
 Tables
 addresses
 Stores location details (street, city, state, zip, country)
